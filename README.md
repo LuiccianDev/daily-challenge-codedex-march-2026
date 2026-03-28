@@ -1,6 +1,13 @@
-# Tabla de los challenges de marzo (el 2 de marzo se cuenta como Día 1)
+# Codedex Monthly Challenge — March 2026
 
-| Día (reto) | Fecha (2026) | Enlace (markdown)                                                      | Código                                                                 |
+
+[![Codedex Challenge](assets/challenge-march-2026.png)](https://www.codedex.io/community/monthly-challenge/f6fcKs3xRKWhJQdlkKGV)
+
+[Codedex Challenge — Monthly Challenge March 2026](https://www.codedex.io/community/monthly-challenge/f6fcKs3xRKWhJQdlkKGV)
+
+
+# Table of March Challenges (March 2 counts as Day 1)
+| Day (challenge) | Date (2026) | Link (markdown)                                                      | Code                                                                 |
 |       ---: |    :---:     | :---                                                                   | :---                                                                   |
 |          1 |  2026-03-02  | [wordle.md](days/day-02/wordle.md)                                     | [wordle.py](days/day-02/wordle.py)                                     |
 |          2 |  2026-03-03  | [blood-moom.md](days/day-03/blood-moom.md)                             | [blood-moom.py](days/day-03/blood-moom.py)                             |
@@ -30,4 +37,4 @@
 |         26 |  2026-03-27  | [infinite-monkey-theorem.md](days/day-27/infinite-monkey-theorem.md)   | [infinite-monkey-theorem.py](days/day-27/infinite-monkey-theorem.py)   |
 |         27 |  2026-03-28  | [28-days-later.md](days/day-28/28-days-later.md)                       | [28-days-later.py](days/day-28/28-days-later.py)                       |
 
-Los días 29-31 están actualmente vacíos en la carpeta `days`.
+Days 29-31 are currently empty in the `days` folder.
