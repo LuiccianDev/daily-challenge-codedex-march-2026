@@ -38,3 +38,10 @@
 |         27 |  2026-03-28  | [28-days-later.md](days/day-28/28-days-later.md)                       | [28-days-later.py](days/day-28/28-days-later.py)                       |
 
 Days 29-31 are currently empty in the `days` folder.
+
+## Note about dates and numbering
+
+- **Day numbering:** Challenges are numbered starting from Day 1 for March 2, 2026 (i.e., March 2 = Day 1). The `Day (challenge)` column shows the sequence number in the challenge, not the calendar day of the month.
+- **Completion order:** Challenges were completed in sequence and are listed by their challenge number. Do not confuse the sequence number with calendar dates.
+- **Context & events:** Some challenges reference events, observances, or specific dates. When applicable, the `Date` column shows the calendar date associated with that challenge.
+
