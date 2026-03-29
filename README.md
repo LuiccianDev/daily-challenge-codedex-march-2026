@@ -36,8 +36,9 @@
 |         25 |  2026-03-26  | [flatten-array.md](days/day-26/flatten-array.md)                       | [flatten-array.py](days/day-26/flatten-array.py)                       |
 |         26 |  2026-03-27  | [infinite-monkey-theorem.md](days/day-27/infinite-monkey-theorem.md)   | [infinite-monkey-theorem.py](days/day-27/infinite-monkey-theorem.py)   |
 |         27 |  2026-03-28  | [28-days-later.md](days/day-28/28-days-later.md)                       | [28-days-later.py](days/day-28/28-days-later.py)                       |
+|         29 |  2026-03-29  | [leaderboard-stats.md](days/day-29/leaderboard-stats.md)               | [leaderboard-stats.py](days/day-29/leaderboard-stats.py)               |
 
-Days 29-31 are currently empty in the `days` folder.
+Days 30-31 are currently empty in the `days` folder.
 
 ## Note about dates and numbering
 
